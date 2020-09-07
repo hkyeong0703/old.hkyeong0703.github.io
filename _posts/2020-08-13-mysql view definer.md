@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "mysql view definer"
 ---
 
 # mysql view definer
